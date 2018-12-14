@@ -1,0 +1,5 @@
+# Don't track content of these folder
+node_modules/
+.idea/
+
+# Don't track file
